@@ -26,7 +26,7 @@
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg" alt="nginx" width="70" height="70"/>
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt="sql" width="70" height="70"/>
-  <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="sql" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="sql" width="70" height="70"/>
 </p>
 
 <h3 align="center">Обо мне:</h3>
